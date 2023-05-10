@@ -2,4 +2,4 @@
 
 
 
-Hola, este repositorio es de Miguel 
+Hola, este repositorio es de Miguel Gomez
